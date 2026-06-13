@@ -1,7 +1,11 @@
 <!-- Header Banner with Matte Neon Gradient -->
+<div style="position: relative;  display: flex; align-items: center; justify-content: center; border-radius: 10px; overflow: hidden;">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=323&color=gradient&textBg=false" alt="Header Banner" width="100%" />
+
+<img style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%); border-radius: 10px; max-width: 60%; " src="./VideoProject1111-ezgif.com-video-to-gif-converter.gif" alt="Animated profile banner" width="100%"  style="border-radius: 10px; postion:relative "/>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:90deg,8a2be2,00ffff&height=220&section=header&text=Hi,%20I'm%20Vishal%20👋&fontSize=50&animation=twinkle&fontColor=ffffff" alt="Header Banner" width="100%" />
-</p>
+</p></div>
 
 <!-- Subtle Tagline -->
 <p align="center">
