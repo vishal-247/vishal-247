@@ -1,11 +1,8 @@
-<!-- Header Banner with Matte Neon Gradient -->
-<div style="position: relative;  display: flex; align-items: center; justify-content: center; border-radius: 10px; overflow: hidden;">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=323&color=gradient&textBg=false" alt="Header Banner" width="100%" />
-
-<img style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%); border-radius: 10px; max-width: 60%; " src="./VideoProject1111-ezgif.com-video-to-gif-converter.gif" alt="Animated profile banner" width="100%"  style="border-radius: 10px; postion:relative "/>
+<img style="position: absolute; top: 23%; left: 50%; transform: translate(-50%, -50%); border-radius: 10px; max-width: 60%; " src="./VideoProject1111-ezgif.com-video-to-gif-converter.gif" alt="Animated profile banner" width="100%"  style="border-radius: 10px; postion:relative "/>
 <p align="center">
-</p></div>
+</p>
+
 
 <!-- Subtle Tagline -->
 <p align="center">
