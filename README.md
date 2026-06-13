@@ -1,5 +1,5 @@
 
-<img style="position: absolute; top: 23%; left: 50%; transform: translate(-50%, -50%); border-radius: 10px; max-width: 60%; " src="./VideoProject1111-ezgif.com-video-to-gif-converter.gif" alt="Animated profile banner" width="100%"  style="border-radius: 10px; postion:relative "/>
+<img  src="./VideoProject1111-ezgif.com-video-to-gif-converter.gif" alt="Animated profile banner" width="100%"  />
 <p align="center">
 </p>
 
@@ -9,9 +9,6 @@
   <strong>💻 Full-Stack Developer | 🛡️ Cybersecurity & Networking | 🤖 AI & Automation Specialist</strong>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/normal-badge.png?key=vishal-247-profile&maxValue=100000&color=00ffff&label=PROFILE+VIEWS&style=flat-square" alt="Visitor Count" />
-</p>
 
 ---
 
