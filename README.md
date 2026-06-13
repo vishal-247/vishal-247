@@ -1,22 +1,133 @@
-# 💫 About Me:
-🔭 **I’m currently working on**<br>Building AI-powered applications and experimenting with LLM integrations, along with developing full-stack projects that combine intelligent automation with real-world use cases.<br><br>👯 **I’m looking to collaborate on**<br>AI/ML projects, developer tools, productivity apps, and open-source initiatives involving LLMs, automation workflows, or backend systems.<br><br>🤝 **I’m looking for help with**<br>Optimizing AI pipelines, deploying models efficiently, scaling backend architectures, and improving system design for production-level AI apps.<br><br>🌱 **I’m currently learning**<br>Advanced AI engineering, LLM orchestration, vector databases, backend scalability, and DevOps practices for deploying intelligent systems.<br><br>💬 **Ask me about**<br>AI projects, Java development, beginner-to-intermediate full-stack development, LLM integrations, and building portfolio-ready tech products.<br><br>
+<!-- Header Banner with Matte Neon Gradient -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:90deg,8a2be2,00ffff&height=220&section=header&text=Hi,%20I'm%20Vishal%20👋&fontSize=50&animation=twinkle&fontColor=ffffff" alt="Header Banner" width="100%" />
+</p>
 
+<!-- Subtle Tagline -->
+<p align="center">
+  <strong>💻 Full-Stack Developer | 🛡️ Cybersecurity & Networking | 🤖 AI & Automation Specialist</strong>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishal_s9104) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-vishwakarma-18807a27a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@visha289) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishalparullab@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vishal-247&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vishal-247&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-247&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vishal-247&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://komarev.com/normal-badge.png?key=vishal-247-profile&maxValue=100000&color=00ffff&label=PROFILE+VIEWS&style=flat-square" alt="Visitor Count" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vishal-247&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 🚀 About Me
 
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <p>I am a passionate software engineer specializing in building high-performance <strong>Full-Stack Applications</strong>, secure <strong>Cybersecurity & Networking</strong> solutions, and intelligent <strong>AI & Automation</strong> workflows.</p>
+      <ul>
+        <li>🛡️ <strong>Focus Areas:</strong> Secure software architectures, network analysis, and vulnerability detection.</li>
+        <li>💡 <strong>Recent Work:</strong> Fintech platforms with dynamic risk assessment, secure Chrome extensions, and data scrapers.</li>
+        <li>🌱 <strong>Currently Learning:</strong> Advanced penetration testing, cloud security principles, and microservice mesh patterns.</li>
+        <li>💬 <strong>Ask me about:</strong> MERN Stack, web scrapers, browser extensions, or automating daily tasks!</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <!-- Matte-themed Custom Stats Card -->
+      <img src="https://github-readme-stats.vercel.app/api?username=vishal-247&show_icons=true&theme=custom&bg_color=181824&title_color=8a2be2&text_color=e0e0e0&icon_color=00ffff&border_color=2f2f4f&border_radius=10" alt="GitHub Stats" width="100%" />
+    </td>
+  </tr>
+</table>
 
+---
+
+### 🛠️ My Tech Stack
+
+To maintain a clean, matte glassmorphism aesthetic, all badges use a unified dark-charcoal base (`#1E1E2E`) paired with vivid neon icons:
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-1E1E2E?style=flat-square&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-1E1E2E?style=flat-square&logo=typescript&logoColor=007ACC) ![Python](https://img.shields.io/badge/Python-1E1E2E?style=flat-square&logo=python&logoColor=3776AB) ![HTML5](https://img.shields.io/badge/HTML5-1E1E2E?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-1E1E2E?style=flat-square&logo=css3&logoColor=1572B6) |
+| **Frameworks & Libs** | ![React](https://img.shields.io/badge/React-1E1E2E?style=flat-square&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/Node.js-1E1E2E?style=flat-square&logo=nodedotjs&logoColor=339933) ![Express](https://img.shields.io/badge/Express-1E1E2E?style=flat-square&logo=express&logoColor=828282) ![NextJS](https://img.shields.io/badge/Next.js-1E1E2E?style=flat-square&logo=nextdotjs&logoColor=FFFFFF) |
+| **Databases & Cloud** | ![MongoDB](https://img.shields.io/badge/MongoDB-1E1E2E?style=flat-square&logo=mongodb&logoColor=47A248) ![Render](https://img.shields.io/badge/Render-1E1E2E?style=flat-square&logo=render&logoColor=46E3B7) ![Vercel](https://img.shields.io/badge/Vercel-1E1E2E?style=flat-square&logo=vercel&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/Git-1E1E2E?style=flat-square&logo=git&logoColor=F05032) |
+| **Cyber & Network** | ![Wireshark](https://img.shields.io/badge/Wireshark-1E1E2E?style=flat-square&logo=wireshark&logoColor=1679A7) ![Nmap](https://img.shields.io/badge/Nmap-1E1E2E?style=flat-square&logo=nmap&logoColor=FFFFFF) ![Security](https://img.shields.io/badge/Cybersecurity-1E1E2E?style=flat-square&logo=pre-commit&logoColor=FF4B4B) ![Linux](https://img.shields.io/badge/Linux-1E1E2E?style=flat-square&logo=linux&logoColor=FCC624) |
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.herokuapp.com/?username=vishal-247&theme=darkhub&no-bg=true&no-frame=true&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📊 Activity & Performance
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-247&theme=tokyonight&background=181824&ring=8a2be2&fire=00ffff&currStreakNum=ffffff&sideNums=e0e0e0&sideLabels=e0e0e0&dates=a0a0a0" alt="GitHub Streak" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-247&layout=compact&theme=custom&bg_color=181824&title_color=8a2be2&text_color=e0e0e0&icon_color=00ffff&border_color=2f2f4f&border_radius=10" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 💡 Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🛡️ GigSurance</h4>
+      <p>A premium MERN stack fintech & insurtech platform implementing PAN-based authentication and a dynamic risk-based pricing model.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-1E1E2E?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/MongoDB-1E1E2E?style=flat-square&logo=mongodb&logoColor=47A248" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🔍 PhishGuard AI</h4>
+      <p>An AI-powered cybersecurity extension identifying and warning users about phishing attempts in real-time with responsive UI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Chrome_Extension-1E1E2E?style=flat-square&logo=google-chrome&logoColor=4285F4" />
+        <img src="https://img.shields.io/badge/AI-1E1E2E?style=flat-square&logo=openai&logoColor=412991" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>📊 LeetCode Extractor</h4>
+      <p>An automated utility built to fetch question metadata and map IDs to URLs, exporting clean and structured data formats.</p>
+      <p>
+        <img src="https://img.shields.io/badge/NodeJS-1E1E2E?style=flat-square&logo=nodedotjs&logoColor=339933" />
+        <img src="https://img.shields.io/badge/API-1E1E2E?style=flat-square&logo=json&logoColor=FFFFFF" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💻 LeetCode Insights
+
+<p align="center">
+  <img src="https://leetcode-stats-card.herokuapp.com/?username=vishal-247&theme=dark" alt="LeetCode Stats" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=00FFFF" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/vishal-247" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-1E1E2E?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/YOUR-TWITTER-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1E1E2E?style=for-the-badge&logo=twitter&logoColor=00FFFF" alt="Twitter" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=FF6B6B" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/moca-c/moca-c/main/images/line-rainbow.gif" width="100%" alt="Rainbow Divider" />
+</p>
